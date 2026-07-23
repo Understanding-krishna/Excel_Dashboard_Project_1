@@ -1,5 +1,2 @@
-# Ignore Excel spreadsheets
-*.xlsx
-
 # Ignore MP4 video files
 *.mp4
