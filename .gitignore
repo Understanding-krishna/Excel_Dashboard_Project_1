@@ -1,6 +1,5 @@
-# Ignore everything by default
-*
+# Ignore Excel spreadsheets
+*.xlsx
 
-# Allow readme.md and .gitignore
-!readme.md
-!.gitignore
+# Ignore MP4 video files
+*.mp4
