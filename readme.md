@@ -10,7 +10,7 @@ The data iss from my Excel course, which provides a foundation in analysing data
 
 ### Dashboard File
 
-My final dashboard is in [1_salary_dashboard.xlsx](./1_Salary_Dashboard.xlsx).
+My final dashboard is in [1_salary_dashboard.xlsx](https://1drv.ms/x/c/3C69E2997D005657/IQCF3e9aH-4lRo3tvvEm3UOhAUd3iftYzNn3BCHoROfhLSE?e=1PNAXR).
 
 ### Excel Skills Used
 
@@ -35,7 +35,7 @@ THe dataset used for this project contains real-world data science job informati
 
 #### Data science JOb salaries - Bar chart
 
-![salary_dashboard-chart1](./1_Salary_Dashboard_Chart1.png)
+<img src="./1_Salary_Dashboard_Chart1.png" alt="salary_dashboard-chart1" width="500">
 
 - 🛠️ **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
 - 🎨 **Design Choice:** Horizontal bar chart for visual comparison of median salaries.
@@ -44,7 +44,7 @@ THe dataset used for this project contains real-world data science job informati
 
 #### 🗺️ Country Median Salaries - Map Chart
 
-![1_Salary_Dashboard_Chart2.png](./1_Salary_Dashboard_Country_Map.gif)
+<img src="./1_Salary_Dashboard_Country_Map.gif" alt="1_Salary_Dashboard_Chart2.png" width="500">
 
 - 🛠️ **Excel Features:** Utilized Excel's map chart feature to plot median salaries globally.
 - 🎨 **Design Choice:** Color-coded map to visually differentiate salary levels across regions.
@@ -74,11 +74,11 @@ IF(
 - **🔢 Formula Purpose:** This formula populates the table below, returning the median salary based on job title, country, and type specified.
 
 🍽️ Background Table
-![1_salary_dashboard](./1_Salary_Dashboard_Screenshot1.png)
+<img src="./1_Salary_Dashboard_Screenshot1.png" alt="1_salary_dashboard" width="500">
 
 📉 Dashboard Implementation
 
-![1_salary_dashboard](./1_Salary_Dashboard_Job_Title.png)
+<img src="./1_Salary_Dashboard_Job_Title.png" alt="1_salary_dashboard" width="500">
 
 #### ⏰ Count of Job Schedule Type
 
@@ -91,11 +91,11 @@ IF(
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Type.png](./1_Salary_Dashboard_Screenshot2.png)
+<img src="./1_Salary_Dashboard_Screenshot2.png" alt="1_Salary_Dashboard_Type.png" width="500">
 
 📉 Dashboard Implementation:
 
-![1_Salary_Dashboard_Type.png](./1_Salary_Dashboard_Type.png)
+<img src="./1_Salary_Dashboard_Type.png" alt="1_Salary_Dashboard_Type.png" width="500">
 
 ### ❎ Data Validation
 
@@ -106,7 +106,7 @@ IF(
   - 🚫 Incorrect or inconsistent entries are prevented
   - 👥 Overall usability of the dashboard is enhanced
 
-![1_Salary_Dashboard_Data_Validation](./1_Salary_Dashboard_Data_Validation.gif)
+<img src="./1_Salary_Dashboard_Data_Validation.gif" alt="1_Salary_Dashboard_Data_Validation" width="500">
 
 ## Conclusion
 
